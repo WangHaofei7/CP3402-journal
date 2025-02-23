@@ -1,0 +1,33 @@
+d = input("请输入一个十位整数: ")
+
+# Ensure the input is a 10-digit number
+if len(d) != 10 or not d.isdigit():
+    print("输入的不是一个十位整数")
+else:
+    # 1. Reverse the input string
+    reversed_d = d[::-1]
+    print("逆序输出字符串:", reversed_d)
+
+    # 2. Check if d is a palindrome
+    if d == reversed_d:
+        print(f"{d} 是回文数")
+    else:
+        print(f"{d} 不是回文数")
+
+    # 3. Convert d to a list of integers
+    L = [int(char) for char in d]
+    print("转换为列表 L:", L)
+
+    # 4. Extract the three largest values from the list
+    largest_three = sorted(L, reverse=True)[:3]
+    print("列表中最大的三个值:", largest_three)
+
+    # 5. Compute the sum and average of the ten integers
+    total_sum = sum(L)
+    average = total_sum / len(L)
+    print("这十个整数的总和:", total_sum)
+    print("这十个整数的平均值:", average)
+
+
+
+
