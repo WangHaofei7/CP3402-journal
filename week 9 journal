@@ -1,0 +1,29 @@
+Student Name: Haofei Wang Student ID: 14251709
+
+Learning Journal for Week 9
+Learning Activities & Resources
+Experiment Description
+Theory: Implementing Sass in my workflow will streamline the process of writing and maintaining CSS, enhancing my efficiency and the quality of the final product.
+
+Test: To test this theory, I will create a simple new website using Sass for the styling. This website will demonstrate my ability to use Sass features such as variables, nesting, mixins, and extend/inheritance. I will automate the workflow using a task runner like Gulp.
+
+Methodology:
+
+Preparation: Install Sass and Gulp on my development environment. Gather all necessary materials and set up a new project directory.
+Implementation:
+Day 1-2: Set up the project directory and initialize Gulp. Create the basic HTML structure for the new website.
+Day 3-5: Write the Sass (.scss) files, incorporating variables, nesting, mixins, and extend/inheritance. Use Gulp to automate the compilation of Sass to CSS.
+Day 6-7: Test and debug the website, ensuring all styles are applied correctly and the workflow is efficient. Make any necessary adjustments and finalize the project.
+Documentation: Keep a detailed log of the development process, including the setup of Sass and Gulp, code snippets for each Sass feature used, and any issues encountered and resolved.
+Estimated Hours
+About a week
+
+Content Insights
+Working with Sass has significantly improved the way I write and manage CSS. The use of variables allowed for more consistent styling, and nesting made the code more readable and organized. Mixins and extend/inheritance reduced redundancy and improved maintainability. Automating the workflow with Gulp was a game-changer, saving time and reducing the potential for errors.
+
+Experiment Outcomes
+Improved Efficiency: The use of Sass streamlined the CSS writing process, making it faster and more efficient.
+Enhanced Quality: The website's styling was more consistent and easier to manage, thanks to Sass features like variables and mixins.
+Workflow Automation: Automating the workflow with Gulp improved productivity by minimizing manual tasks and reducing the likelihood of errors.
+Career/Employability/Learning Insights
+This experiment provided valuable insights into modern web development practices. Proficiency in Sass and task runners like Gulp is highly sought after in the industry, as they enhance efficiency and code quality. These skills are not only essential for web development but also improve my ability to manage larger projects and collaborate with other developers. The ability to write clean, maintainable CSS and automate workflows is a significant advantage in a professional setting.
